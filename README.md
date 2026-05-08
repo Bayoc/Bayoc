@@ -44,15 +44,15 @@ I am an aspiring QA Engineer with a strong focus on building scalable automation
 * **Scope:** UI/UX analysis, cross-browser testing, mobile responsiveness via Chrome DevTools.
 * **Execution:** Designed 5 Test Scenarios and 30+ Test Cases covering happy paths, edge cases, and social logins.
 * **Documentation:** Jira bug reporting, Test Plans, and Summary Reports.
-* 📁 **[View Project Documentation](./MILITARIA_PROJECT)**
+* 📁 **[View Project Documentation](https://github.com/Bayoc/Portfolio-ManualTesting-API-SQL)**
 
 ### 🧪 API Testing Project: Restful-Booker (Postman)
 *Automated scripts verifying CRUD operations, data integrity, and authentication flows.*
 * **Highlights:** Dynamic request chaining (extracting IDs and passing as variables), automated token generation.
 * **Assertions:** JavaScript scripts for verifying response integrity, status codes (200 OK, 401/403), and JSON schema validation.
-* 📁 **[View Postman Collection & Plan](./API)**
+* 📁 **[View Postman Collection & Plan](https://github.com/Bayoc/Portfolio-ManualTesting-API-SQL/blob/main/API/API_TEST_PLAN.md)**
 
 ### 🗄️ Database Testing (SQL)
 *Practical application of SQL for data validation and backend testing.*
-* 📂 **[Business Scenarios (Militaria.pl simulation)](./SQL/MILITARIA_SQL.md)** – GDPR compliance and data persistence.
-* 📂 **[Sakila DB Study](./SQL/SAKILA_STUDY.md)** – Queries ranging from simple data retrieval to complex JOINs and relational logic.
+* 📂 **[Business Scenarios (Militaria.pl simulation)](https://github.com/Bayoc/Portfolio-ManualTesting-API-SQL)** – GDPR compliance and data persistence.
+* 📂 **[Sakila DB Study](https://github.com/Bayoc/Portfolio-ManualTesting-API-SQL/blob/main/SQL/SAKILA_STUDY.md)** – Queries ranging from simple data retrieval to complex JOINs and relational logic.
