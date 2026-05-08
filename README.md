@@ -16,7 +16,7 @@ I am an aspiring QA Engineer with a strong focus on building scalable automation
 
 ## 🚀 Featured Projects
 
-### 🥇 [Trello REST API Automation Framework | Playwright & TypeScript](LINK_DO_REPO)
+### 🥇 [Trello REST API Automation Framework | Playwright & TypeScript](https://github.com/Bayoc/Project-Trello-API)
 *Self-designed, scalable API testing framework built from scratch.*
 * **Tech Stack:** Playwright (APIRequestContext), TypeScript, GitHub Actions, Husky.
 * **Architecture:** Dependency Injection (Fixtures), HTTP Client abstraction, Data Builders, Fail-Fast HTTP assertions.
